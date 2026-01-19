@@ -6,7 +6,7 @@ namespace BudgetApp.Models
 {
     public class BudgetManager
     {
-        private readonly List<Transaction> _transactions;
+        private readonly List<Transaction> _transactions; 
 
         public BudgetManager()
         {
